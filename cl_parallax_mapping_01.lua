@@ -1,3 +1,4 @@
+-- Put this in your lua folder --
 if !EGSM or !(EGSM.Version > 1) then return end -- DON'T FORGET TO CHECK
 -- Written By Ethan, TheGreat for public use/knowledge --
 -- Originally created by Valve Corperation
