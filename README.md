@@ -21,8 +21,7 @@ as it might cause epilepsi. Use at your own risk.
 Pictures:
 ![gm_flatgrass0003](https://github.com/EthanTheGreat/Gmod_Parallax_Mapping/assets/2121769/ab37b61b-4bd0-464d-b360-bb5d9dc44b5d)
 ![gm_flatgrass0008](https://github.com/EthanTheGreat/Gmod_Parallax_Mapping/assets/2121769/d9012555-00c0-4f5f-bac9-f92dd059dd8a)
-![gm_construct0012](https://github.com/EthanTheGreat/Gmod_Parallax_Mapping/assets/2121769/33a2ac72-c6b2-4969-b72c-67424c6f4a16)
-
+![gm_flatgrass0005](https://github.com/EthanTheGreat/Gmod_Parallax_Mapping/assets/2121769/4f7bb3b6-cbbf-4e81-847a-f62083e77037)
 
 
 Thank you to:
