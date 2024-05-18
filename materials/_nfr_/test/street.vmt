@@ -1,0 +1,8 @@
+"VertexLitParallax"
+{
+	"$baseTexture" "_nfr_/test/street"
+	"$surfaceprop" "concrete"
+	"$plm_normals" "_nfr_/test/street_normal"
+}
+
+

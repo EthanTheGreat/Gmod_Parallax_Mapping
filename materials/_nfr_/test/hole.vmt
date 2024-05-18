@@ -1,0 +1,7 @@
+"VertexLitParallax"
+{
+	"$basetexture" "_nfr_/test/hole"
+	"$surfaceprop" "wood"
+	"$plm_normals" "_nfr_/test/hole_normal"
+	"$parallaxmapscale" ".02"
+}

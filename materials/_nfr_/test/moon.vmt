@@ -1,0 +1,7 @@
+"VertexLitParallax"
+{
+	"$basetexture" "_nfr_/test/moon"
+	"$surfaceprop" "wood"
+	"$plm_normals" "_nfr_/test/moon_height"
+	"$parallaxmapscale" ".02"
+}
